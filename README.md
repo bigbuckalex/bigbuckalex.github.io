@@ -1,2 +1,2 @@
-# bigbuckalex.github.io
-My Portfolio
+# Basic-Portfolio
+This is my first homework assignment.
